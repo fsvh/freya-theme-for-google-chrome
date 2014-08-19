@@ -6,8 +6,6 @@
 In the folder "Theme" do you will find 2 files.crx take and drop it to the extensions in Google Chrome.
 </pre>
 
-![Texte alternatif](https://raw.githubusercontent.com/fsvh/freya-theme-for-google-chrome/master/freya-look.png "Freya Theme for Google Chrome")
-
 ###Before
 
 ![Texte alternatif](https://raw.githubusercontent.com/fsvh/freya-theme-for-google-chrome/master/google-chrome-before.png "Before")
