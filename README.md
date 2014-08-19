@@ -1,2 +1,3 @@
-freya-theme-for-google-chrome
-=============================
+##Freya Theme for Google Chrome
+
+
